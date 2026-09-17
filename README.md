@@ -1,13 +1,17 @@
 # IGME-110-repo2
 ---
 ## Kaceys Repo
-1. Organized thing 1
-2. Organized thing 2
-3. organized thing 3
+
+**Kacey's Siblings**
+1. Mia
+2. Layla
+3. Jayden
 ---
-- Unorganized thing 1
-- Unorganized thing 2
-- Unorganized thing3
+
+**Task**
+- Homework
+- Laundry
+- Games
 ---
 **https://www.rit.edu/**
 
