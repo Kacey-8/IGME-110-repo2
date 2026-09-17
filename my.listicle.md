@@ -1,9 +1,10 @@
 # Kacey's Listicle about different dogs
 ---
-1.[American Eskimo Dog :dog:](https://www.akc.org/dog-breeds/american-eskimo-dog/)
+1.[American Eskimo Dog 🐕](https://www.akc.org/dog-breeds/american-eskimo-dog/)
 ![American Eskimo Image](https://upload.wikimedia.org/wikipedia/commons/f/fe/American_Eskimo_Dog_1.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original)
 **Eskies are social animals and can develop problem behaviors when neglected or undertrained' they insist on being part of family life. Among the most trainable of breeds, the clever, kid-friendly Eskie practically invented the phrase 'eager to please.'**
-2.[Estrela Mountain Dog:dog2:](https://www.akc.org/dog-breeds/estrela-mountain-dog/)
+
+2.[Estrela Mountain Dog🐶](https://www.akc.org/dog-breeds/estrela-mountain-dog/)
 
 ![Estrela Mountain image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtyd_uPshhUIMh1itl8CfAYKeCWVlOcsjFKdEekQqXSzDZbOAJYmbnS4KY-j2wsJF1eGPjLAjZg1BfDgmHoe4lmfI1rjfBUQS2s5_99Q&s=10)
 
